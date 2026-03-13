@@ -1,6 +1,6 @@
 # ADR-002: Azure Container Registry vs Docker Hub
 
-**Date:** $(date +%Y-%m-%d)
+**Date:** 2026-03-13
 **Status:** Accepted
 
 ## Context

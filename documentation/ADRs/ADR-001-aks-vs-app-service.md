@@ -1,6 +1,6 @@
 # ADR-001: AKS vs App Service for Container Hosting
 
-**Date:** $(date +%Y-%m-%d)
+**Date:** 2026-03-13
 **Status:** Accepted
 
 ## Context

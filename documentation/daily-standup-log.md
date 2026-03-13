@@ -2,7 +2,7 @@
 
 ---
 
-## Day 1 — $(date +%Y-%m-%d)
+## Day 1 — 2026-03-13
 
 **What I completed:**
 - Created public GitHub repo with full folder structure

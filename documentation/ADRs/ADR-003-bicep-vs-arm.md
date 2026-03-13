@@ -1,6 +1,6 @@
 # ADR-003: Bicep vs ARM Templates
 
-**Date:** $(date +%Y-%m-%d)
+**Date:** 2026-03-13
 **Status:** Accepted
 
 ## Context

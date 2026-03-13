@@ -1,6 +1,6 @@
 # ADR-004: Namespace-Per-Environment vs Cluster-Per-Environment
 
-**Date:** $(date +%Y-%m-%d)
+**Date:** 2026-03-13
 **Status:** Accepted
 
 ## Context
