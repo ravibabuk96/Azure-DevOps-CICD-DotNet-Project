@@ -1,0 +1,28 @@
+# Secrets - NEVER commit these
+.env
+.env.*
+*.pem
+*.key
+secrets/
+.azure/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform/
+.terraform.lock.hcl
+
+# Build artifacts
+bin/
+obj/
+*.user
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
